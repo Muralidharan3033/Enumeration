@@ -81,7 +81,10 @@ Top level domain expansion
 
 ##dnsenum
 Dnsenum is a multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks. The main purpose of Dnsenum is to gather as much information as possible about a domain. The program currently performs the following operations:
+
 ![image](https://github.com/user-attachments/assets/c99ad46d-92ad-428e-b23e-e41fd4fd2b55)
+
+
 ![image](https://github.com/user-attachments/assets/4b8c3ef4-c004-469d-8565-298ae1c34dfe)
 
 
